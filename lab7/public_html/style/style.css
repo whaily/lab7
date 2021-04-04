@@ -7,8 +7,15 @@ and open the template in the editor.
     Created on : 4 апр. 2021 г., 19:51:01
     Author     : antia
 */
+body{
+ width:800px;
+ padding-left:50%;
+ margin:0px;
+}
+
 #main{
  width:800px;
+ margin-left:-400px;
  background-image: url(images/fon_bg.jpg);
  background-repeat: repeat-y;
 }
@@ -68,7 +75,6 @@ and open the template in the editor.
  background-image: url(images/footer.jpg);
  background-repeat: repeat-x;
 }
-
 
 
 
